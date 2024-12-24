@@ -40,6 +40,7 @@ jobs:
           python-version: "3.10"
       - name: 🔧 Build HTML
         run: |
+          git submodule update --init
           pip install --upgrade pip
           pip install taolib invoke
           pip install -e .[rtd]
