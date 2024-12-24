@@ -38,8 +38,6 @@ jobs:
         uses: actions/setup-python@main
         with:
           python-version: "3.10"
-          cache: "pip"
-          cache-dependency-path: "pyproject.toml"
       - name: 🔧 Build HTML
         run: |
           pip install --upgrade pip
