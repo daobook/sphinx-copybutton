@@ -1,0 +1,107 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-12-24 09:11+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../reference/example.md:16
+msgid "Reference examples"
+msgstr ""
+
+#: ../../reference/example.md:18
+msgid ""
+"This is a page to show off some examples of this tool in use, and as a "
+"reference to test visual changes over time."
+msgstr ""
+
+#: ../../reference/example.md:20
+msgid "Code Cells"
+msgstr ""
+
+#: ../../reference/example.md:24
+msgid "To make sure that the images / svg still works!"
+msgstr ""
+
+#: ../../reference/example.md:30
+msgid "Copytext with line numbers!"
+msgstr ""
+
+#: ../../reference/example.md:41
+msgid "Copy text with literalincludes!"
+msgstr ""
+
+#: ../../reference/example.md:48
+msgid "Tables"
+msgstr ""
+
+#: ../../reference/example.md:64
+msgid "MyST Notebook Cells"
+msgstr ""
+
+#: ../../reference/example.md:66
+msgid ""
+"Sphinx Copybutton works with [MyST Notebooks](https://myst-"
+"nb.readthedocs.io) as well. See below for the code inputs and outputs:"
+msgstr ""
+
+#: ../../reference/example.md:68
+msgid "Regular cells"
+msgstr ""
+
+#: ../../reference/example.md:70
+msgid "A regular cell:"
+msgstr ""
+
+#: ../../reference/example.md:76
+msgid "Notebook cells"
+msgstr ""
+
+#: ../../reference/example.md:78
+msgid "Next we'll demo notebook cells to see if these are rendered correctly."
+msgstr ""
+
+#: ../../reference/example.md:84
+msgid "Rough edges"
+msgstr ""
+
+#: ../../reference/example.md:86
+msgid ""
+"This section displays UI behavior that we know is incorrect. Consider "
+"this a wish-list for contributions if somebody knows how to fix these "
+"issues!"
+msgstr ""
+
+#: ../../reference/example.md:89
+msgid "Float-right content doesn't move the copy button"
+msgstr ""
+
+#: ../../reference/example.md:91
+msgid ""
+"If there is content floated to the right, the code block will shrink, but"
+" not the copy button. For example. hover over the code block below, the "
+"copy button will float to the right, over the sidebar."
+msgstr ""
+
+#: ../../reference/example.md:94
+msgid "Placeholder sidebar"
+msgstr ""
+
+#: ../../reference/example.md:95
+msgid ""
+"This is a placeholder sidebar text to display! It will push the code "
+"block to the left, but not the copy button"
+msgstr ""
+

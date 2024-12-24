@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Executable Books Project
+# This file is distributed under the same license as the Sphinx Copybutton
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sphinx Copybutton \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-24 09:10+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../index.md:1
+msgid "Sphinx-copybutton"
+msgstr ""
+
+#: ../../index.md:3
+msgid "Documentation"
+msgstr "文档"
+
+#: ../../index.md:8
+msgid "PyPi page"
+msgstr ""
+
+#: ../../index.md:13
+msgid "Conda Version"
+msgstr ""
+
+#: ../../index.md:18
+msgid ""
+"Sphinx-copybutton does one thing: add a little \"copy\" button to the "
+"right of your code blocks. That's it! It is a lightweight wrapper around "
+"the excellent (and also lightweight) Javascript library "
+"[ClipboardJS](https://clipboardjs.com/)."
+msgstr ""
+"Sphinx-copybutton 只做一件事：在你的代码块右侧添加一个小的“复制”按钮。"
+"就是这样！它是轻量级的包装器，围绕着优秀的（同样轻量级的）JavaScript 库 [ClipboardJS](https://clipboardjs.com/)。"
+
+#: ../../index.md:23
+msgid "**Here's an example**"
+msgstr "**以下是示例**"
+
+#: ../../index.md:27
+msgid "Copy Button Demo"
+msgstr "“复制按钮演示”"
+
+#: ../../index.md:32
+msgid "And here's a code block, note the copy button to the right!"
+msgstr "这里是代码块，注意右侧的复制按钮！"
+
+#: ../../index.md:38
+msgid ""
+"If the code block overlaps to the right of the text area, you can just "
+"click the button to get the whole thing."
+msgstr ""
+"如果代码块超出了文本区域的右侧，你可以直接点击按钮来获取全部内容。"
+
+#: ../../index.md:45
+msgid ""
+"You can configure `sphinx-copybutton` to detect *input prompts* in code "
+"cells, and then both remove these prompts before copying, as well as skip"
+" lines that *don't* start with prompts (in case they are output lines)."
+msgstr ""
+"你可以配置 `sphinx-copybutton` 来检测代码单元格中的 **输入提示**，然后在复制之前移除这些提示，并跳过 **不** 以提示开头的行（以防它们是输出行）。"
+
+#: ../../index.md:49
+msgid ""
+"For example, this site has been configured to strip Python prompts (\">>>"
+" \") and output lines. Try copy-pasting the code block below."
+msgstr ""
+"例如，本网站已配置为去除 Python 提示符（`>>>`）和输出行。试试复制粘贴下面的代码块。"
+
+#: ../../index.md:62
+msgid "Install"
+msgstr "安装"
+
+#: ../../index.md:64
+msgid "You can install `sphinx-copybutton` with `pip`:"
+msgstr "你可以使用 `pip` 安装 `sphinx-copybutton`："
+
+#: ../../index.md:70
+msgid "Or with `conda` via `conda-forge`:"
+msgstr "或者通过 `conda-forge` 安装 `conda`："
+
+#: ../../index.md:76
+msgid ""
+"[Here's a link to the sphinx-copybutton GitHub "
+"repository](https://github.com/ExecutableBookProject/sphinx-copybutton)."
+msgstr ""
+"[这里](https://github.com/ExecutableBookProject/sphinx-copybutton) 是 sphinx-copybutton 的 GitHub 仓库。"
+
+#: ../../index.md:78
+msgid "Use"
+msgstr "使用"
+
+#: ../../index.md:80
+msgid ""
+"In your `conf.py` configuration file, add `sphinx_copybutton` to your "
+"extensions list. E.g.:"
+msgstr ""
+"在您的 `conf.py` 配置文件中，将 `sphinx_copybutton` 添加到您的扩展列表。例如："
+
+#: ../../index.md:91
+msgid ""
+"When you build your site, your code blocks should now have little copy "
+"buttons to their right. Clicking the button will copy the code inside!"
+msgstr ""
+"当你构建你的网站时，你的代码块应该现在有一个小的“复制”按钮了。点击按钮就可以复制代码了！"
+
+#: ../../index.md:94
+msgid "See [](use.md) for more information about how to use `sphinx-copybutton`."
+msgstr "查阅 [](use.md) 了解更多关于如何使用 `sphinx-copybutton` 的信息。"
+
+#: ../../index.md:104
+msgid "Inspiration"
+msgstr "灵感"
+
+#: ../../index.md:106
+msgid ""
+"The UI and design elements of `sphinx-copybutton` are heavily inspired by"
+" [GitHub's design choices](https://primer.style). The icon we use is from"
+" [Tabler's icons set](https://tablericons.com/)."
+msgstr ""
+"`sphinx-copybutton` 的 UI 和设计元素受到了 [GitHub 的设计选择](https://primer.style) 的启发。"
+"使用的图标来自 [Tabler 的图标集](https://tablericons.com/)。"

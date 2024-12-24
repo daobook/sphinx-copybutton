@@ -1,0 +1,235 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-12-24 09:10+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../../CHANGELOG.md:2
+msgid "Changelog"
+msgstr ""
+
+#: ../../../CHANGELOG.md:4
+msgid "v0.5.2 - 2022-11-15"
+msgstr ""
+
+#: ../../../CHANGELOG.md:6
+msgid ""
+"([full changelog](https://github.com/executablebooks/sphinx-"
+"copybutton/compare/v0.5.0...TODO))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:9
+msgid ""
+"BUG: Don't exclude `.gp` class by default.  This made excluding prompts "
+"more automatic, but broke the existing pattern-based prompt exclusion.  "
+"[#188](https://github.com/executablebooks/sphinx-copybutton/pull/188) "
+"([@rkdarst](https://github.com/rkdarst))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:10
+msgid ""
+"MAINT: Add Sphinx Extension classifier (#189)  "
+"[#189](https://github.com/executablebooks/sphinx-copybutton/pull/189) "
+"([@jdillard](https://github.com/jdillard ))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:11
+msgid ""
+"DOCS: Improve docs related to text exclusion "
+"[#187](https://github.com/executablebooks/sphinx-copybutton/pull/187) "
+"([@rkdarst](https://github.com/rkdarst))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:13
+msgid "v0.5.1 - 2022-11-15"
+msgstr ""
+
+#: ../../../CHANGELOG.md:15
+msgid ""
+"([full changelog](https://github.com/executablebooks/sphinx-"
+"copybutton/compare/v0.5.0...e529aa0c7c0bf6ad880904f7a8876f33040e5c09))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:17
+msgid ""
+"ENH: Unselectable text is now also not highlighted when you manually "
+"highlight a code cell. Exclude unselectable text from being copied "
+"(update) [#178](https://github.com/executablebooks/sphinx-"
+"copybutton/pull/178) ([@rkdarst](https://github.com/rkdarst))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:18
+msgid ""
+"ENH: After copying, the copybutton will disappear _before_ the icon "
+"changes back if you are no longer hovering on the code cell. FIX: Make "
+"copybutton remain for a second during success "
+"[#176](https://github.com/executablebooks/sphinx-copybutton/pull/176) "
+"([@choldgraf](https://github.com/choldgraf))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:19
+msgid ""
+"MAINT: Add support for Python 3.10 "
+"[#174](https://github.com/executablebooks/sphinx-copybutton/pull/174) "
+"([@hugovk](https://github.com/hugovk))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:21
+msgid "0.5.0 - 2022-02-05"
+msgstr ""
+
+#: ../../../CHANGELOG.md:23
+msgid ""
+"([full changelog](https://github.com/executablebooks/sphinx-"
+"copybutton/compare/v0.4.0...915aa4cf0b06f7b781bc4edfc204c62f2ce7cdb6))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:25
+msgid ""
+"This release updates the copy button design and behavior to match "
+"GitHub's design guide and button behavior. It also directly inserts the "
+"SVG instead of linking it via an `<img>` tag so that it can be styled "
+"more flexibly."
+msgstr ""
+
+#: ../../../CHANGELOG.md:27
+msgid "Enhancements"
+msgstr ""
+
+#: ../../../CHANGELOG.md:29
+msgid ""
+"ENH: Directly add SVG instead of linking via IMG "
+"[#161](https://github.com/executablebooks/sphinx-copybutton/pull/161) "
+"([@choldgraf](https://github.com/choldgraf))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:30
+msgid ""
+"ENH: Update copybutton image to match GitHub "
+"[#155](https://github.com/executablebooks/sphinx-copybutton/pull/155) "
+"([@choldgraf](https://github.com/choldgraf))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:33
+msgid "0.4.0 - 2021-07-03"
+msgstr ""
+
+#: ../../../CHANGELOG.md:35 ../../../CHANGELOG.md:40
+msgid "Enhancements ✨"
+msgstr ""
+
+#: ../../../CHANGELOG.md:36
+msgid ""
+"The Copy Button UI/UX is now inspired from the recent GitHub copy button "
+"updates. [#133](https://github.com/executablebooks/sphinx-"
+"copybutton/pull/133)"
+msgstr ""
+
+#: ../../../CHANGELOG.md:38
+msgid "0.3.2 - 2021-06-11"
+msgstr ""
+
+#: ../../../CHANGELOG.md:41
+msgid ""
+"Add line continuation matching and \"HERE-documents\" "
+"[#126](https://github.com/executablebooks/sphinx-copybutton/pull/126) "
+"([@sappelhoff](https://github.com/sappelhoff))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:42
+msgid ""
+"Allow copying empty lines [#127](https://github.com/executablebooks"
+"/sphinx-copybutton/pull/127) ([@amotl](https://github.com/amotl))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:43
+msgid "✨ IMPROVE: add a check-mark SVG icon and improve the look of the button"
+msgstr ""
+
+#: ../../../CHANGELOG.md:45
+msgid "Translations 🌎"
+msgstr ""
+
+#: ../../../CHANGELOG.md:46
+msgid ""
+"Add Russian translations [#120](https://github.com/executablebooks"
+"/sphinx-copybutton/pull/120) ([@Nikulinnn](https://github.com/Nikulinnn))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:47
+msgid ""
+"Add Simplified Chinese translations "
+"[#116](https://github.com/executablebooks/sphinx-copybutton/pull/116) "
+"([@seisman](https://github.com/seisman))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:48
+msgid ""
+"French translations added [#114](https://github.com/executablebooks"
+"/sphinx-copybutton/pull/114) ([@dbitouze](https://github.com/dbitouze))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:50
+msgid "0.3.1 - 2020-11-02"
+msgstr ""
+
+#: ../../../CHANGELOG.md:52
+msgid ""
+"👌 Improved copy icon (thanks to "
+"(@pradyunsg)[https://github.com/pradyunsg])"
+msgstr ""
+
+#: ../../../CHANGELOG.md:53
+msgid ""
+"📚 Improved examples of regex settings (thanks to "
+"[@s-weigand](https://github.com/s-weigand) and "
+"[@edmcdonagh](https://github.com/edmcdonagh))"
+msgstr ""
+
+#: ../../../CHANGELOG.md:55
+msgid ""
+"[Full commit list](https://github.com/executablebooks/sphinx-"
+"copybutton/compare/v0.3.0...852a9468f1d9e7e12e2c6c90394e8029d571bc14)"
+msgstr ""
+
+#: ../../../CHANGELOG.md:57
+msgid "0.3.0 - 2020-07-25"
+msgstr ""
+
+#: ../../../CHANGELOG.md:59
+msgid "Breaking"
+msgstr ""
+
+#: ../../../CHANGELOG.md:61
+msgid ""
+"Copy raw regex string to JS template, thanks to @s-weigand. This fixes "
+"the way that the `copybutton_prompt_text` value is injected into "
+"`copybutton.js_t` (as discussed in #86). The raw string formatting means "
+"that backslashes are now propagated correctly and removes the need for "
+"\"double escaping\". Users will need to update their "
+"`copybutton_prompt_text` string accordingly."
+msgstr ""
+
+#: ../../../CHANGELOG.md:66
+msgid "Changed"
+msgstr ""
+
+#: ../../../CHANGELOG.md:68
+msgid ""
+"Upgraded [lodash](https://github.com/lodash/lodash) from 4.17.15 to "
+"4.17.19"
+msgstr ""
+

@@ -1,0 +1,93 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-12-24 09:11+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../contribute/index.md:2
+msgid "Contribute"
+msgstr ""
+
+#: ../../contribute/index.md:4
+msgid ""
+"If you'd like to develop or make contributions for sphinx-copybutton, "
+"fork the repository here:"
+msgstr ""
+
+#: ../../contribute/index.md:7
+msgid "<https://github.com/ExecutableBookProject/sphinx-copybutton>"
+msgstr ""
+
+#: ../../contribute/index.md:9
+msgid "pull to your computer and install locally with `pip`:"
+msgstr ""
+
+#: ../../contribute/index.md:15
+msgid "**Pull requests** and **Issues** are absolutely welcome!"
+msgstr ""
+
+#: ../../contribute/index.md:17
+msgid ""
+"The package is tested for three things (see "
+"`.github/workflows/integration.yml`):"
+msgstr ""
+
+#: ../../contribute/index.md:19
+msgid "code style"
+msgstr ""
+
+#: ../../contribute/index.md:21
+msgid ""
+"To adhere to this code style install the package with [pre-commit](https"
+"://pre-commit.com/):"
+msgstr ""
+
+#: ../../contribute/index.md:27
+msgid "Then you can run:"
+msgstr ""
+
+#: ../../contribute/index.md:33
+msgid "Or setup pre-commit to run on code commits:"
+msgstr ""
+
+#: ../../contribute/index.md:39
+msgid "JavaScript unit testing"
+msgstr ""
+
+#: ../../contribute/index.md:41
+msgid "Install the test dependencies with [npm](https://www.npmjs.com/):"
+msgstr ""
+
+#: ../../contribute/index.md:47
+msgid "Then run the tests:"
+msgstr ""
+
+#: ../../contribute/index.md:54
+msgid "NodeJS >= 12 is required"
+msgstr ""
+
+#: ../../contribute/index.md:57
+msgid "Documentation builds"
+msgstr ""
+
+#: ../../contribute/index.md:59
+msgid "Install the package:"
+msgstr ""
+
+#: ../../contribute/index.md:65
+msgid "Then run the docs build:"
+msgstr ""
+
